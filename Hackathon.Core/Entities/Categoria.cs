@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Hackathon.Core.Entities
 {
-    internal class Categoria
+    public class Categoria
     {
+
     }
 }

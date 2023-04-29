@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hackathon.Core.Entities
 {
-    internal class Ong
+    public class Ong
     {
     }
 }
